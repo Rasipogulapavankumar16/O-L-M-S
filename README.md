@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/Dhruv2406/E-OLM/blob/main/library/media/e-olm.png" alt="Verbyl-Logo" height="170">
-  <h3 align="center"><b>E-Online Library Management System</b></h3>
+  <h3 align="center"><b>Online Library Management System</b></h3>
 
 E-OLM, a web app made in Django, is an E-library management system created as an at ease management of operations of small scaled libraries.
 
